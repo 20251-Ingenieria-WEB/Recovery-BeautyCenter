@@ -1,5 +1,13 @@
 # 💄 Centro de Belleza - Sistema de Agendamiento de Citas
 
+Integrantes:
+- David Camilo García Echavarría -1001131914
+- Juana María Rodas Álvarez - 1017254935
+- Santiago Graciano David - 1037660790
+- Emmanuel Bustamante Valbuena - 1001018117
+
+[DEMO](https://beauty-center-recovery.vercel.app)
+
 [🇪🇸 Español](#espanol) | [🌐 English](#english)
 
 # Español
